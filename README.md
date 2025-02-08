@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Sai Manoj Dintakurti</h1>
 <h3 align="center">A passionate Software and FullStack Developer</h3>
 
@@ -19,7 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/manojdintakurti" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://www.saimanojdintakurti.info" target="blank"><img align="center" alt="website" height="30" width="40" /></a>
+
+[![Website](https://raw.githubusercontent.com/your-username/your-repo/main/assets/globe.png)](https://www.saimanojdintakurti.info)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
