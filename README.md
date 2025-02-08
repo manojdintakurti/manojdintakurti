@@ -17,7 +17,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/manojdintakurti" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
 
-[![Website](https://raw.githubusercontent.com/your-username/your-repo/main/assets/globe.png)](https://www.saimanojdintakurti.info)
+[🔗 Visit My Portfolio](https://www.saimanojdintakurti.info)
 
 </p>
 
